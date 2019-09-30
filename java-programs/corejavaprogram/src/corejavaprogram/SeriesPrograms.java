@@ -4,6 +4,7 @@ package corejavaprogram;
  * @author Ankush.Patel
  * 
  * This class print series of given number. 
+ Example:-
  * number =5 
  * Output 
  * 	1
